@@ -3,8 +3,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning C++ CUDA
-- 👨‍💻 &nbsp;I'm a student in ZheJiang University
-- 🚀 &nbsp;Games : overwatch lol cs:go
+- 👨‍💻 &nbsp;I'm a student in ISCAS.
+- 🚀 &nbsp;Top 500 overwatch tank player.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caixiao-0725/caixiao-0725/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caixiao-0725/caixiao-0725/output/github-contribution-grid-snake.svg">
